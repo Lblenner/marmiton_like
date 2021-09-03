@@ -1,5 +1,7 @@
 # Les recettes de Martine
 
+ARCHIVED
+
 Un site de partage de recettes.  
 
 Pour lancer front sur localhost:3000
